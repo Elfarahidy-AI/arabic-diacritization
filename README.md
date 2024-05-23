@@ -38,12 +38,6 @@ Abu Elswad Elduali is a deep learning model designed to add diacritics (taskeel)
 2. Use the model for diacritics addition in the evaluation.ipynb file:
 
 
-## Contributing
-- [Youssef Ismail](https://github.com/YoussefIsmail1337)
-- [Mohamed Mostafa](https://github.com/MohamedMostafa100)
-- [Salma Ahmed](https://github.com/salma-ahmed9)
-- [Ahmed Maher](https://github.com/AhmedMaher309)
-
 If you'd like to contribute to Abu Elswad Elduali, please follow these guidelines:
  1. Fork this repository.
  2. Make your changes and commit them to your fork.
