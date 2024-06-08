@@ -1,4 +1,4 @@
-# Abu Elswad Elduali - Arabic Diacritics (Taskeel) Adder
+# Arabic Diacritization
 
 ## Overview
 
